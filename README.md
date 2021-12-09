@@ -29,3 +29,10 @@ Formatierungen:
 Links:
 
 [Öffne GitHub](https://github.com/)
+
+Textfeld mit Kopierfunktion:
+
+```
+Hier steht ein Text oder Code zum Kopieren.
+
+```
